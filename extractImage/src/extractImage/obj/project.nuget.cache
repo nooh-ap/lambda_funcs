@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XkcNN+jfLjqmu4q0cxWS6zyAU0yP8LHRYeILY7O0X1D+ViIejl4I9di4ol4jfROs3ERm9/YHhGIn3MoVZb4NHg==",
+  "success": true,
+  "projectFilePath": "/Users/noohalmahfoodi/Desktop/c#/lambda_funcs/extractImage/src/extractImage/extractImage.csproj",
+  "expectedPackageFiles": [
+    "/Users/noohalmahfoodi/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/noohalmahfoodi/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/noohalmahfoodi/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.18/microsoft.netcore.app.crossgen2.osx-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
